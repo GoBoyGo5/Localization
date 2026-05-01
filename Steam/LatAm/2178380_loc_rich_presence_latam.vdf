@@ -1,0 +1,25 @@
+"lang"
+{
+	"Language"	"latam"
+	"Tokens"
+	{
+		"#StatusMenus"	"{#Status_%gamestatus%}"
+		"#StatusGame"	"{#Status_%gamestatus%} en {#Difficulty_%difficulty%}"
+		"#Status_Menu"	"Navegando por los menús"
+		"#Status_LCZ"	"Recorriendo la Zona de Contención Ligera"
+		"#Status_HCZ"	"Recorriendo la Zona de Contención Pesada"
+		"#Status_EZ"	"Recorriendo la Zona de Entrada"
+		"#Status_jorge"	"jorge te estaba esperando"
+		"#Status_Intro"	"Sometido a pruebas del SCP-173"
+		"#Status_860"	"Recorriendo un bosque de tonos azules"
+		"#Status_1499"	"Usando una Máscara de Gas GP-5"
+		"#Status_PD"	"Atrapado en la Dimensión de Bolsillo"
+		"#Status_GateA"	"Escapar por la Puerta A"
+		"#Status_GateB"	"Escapar por la Puerta B"
+		"#Status_MT"	"Perdido en los Túneles de Mantenimiento"
+		"#Difficulty_Safe"	"Seguro"
+		"#Difficulty_Euclid"	"Euclid"
+		"#Difficulty_Keter"	"Keter"
+		"#Difficulty_Esoteric"	"Esoteric"
+	}
+}
