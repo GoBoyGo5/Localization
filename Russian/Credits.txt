@@ -33,7 +33,7 @@
 *Localization Contributors for Steam
 		
 		Mikhail Grigoriev ("Zero_Gravity")
-		
+		JustMarkov
 
 *Special thanks to
 		
