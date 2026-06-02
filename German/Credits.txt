@@ -23,3 +23,6 @@ SCP-939-1 - Sebastian Schaaf ("Nerodus")
 SCP-939-2 - Justin ("flin")
 SCP-939-3 - Lin
 Class-D (Femur Breaker) - Stefan Koch ("Salvage")
+Toilet Guard - Purplatt
+Chaos Insurgency - Alexander Brunner ("Lestlandia")
+096 Server Room Guard - Alexander Brunner ("Lestlandia")
