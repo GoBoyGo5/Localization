@@ -14,3 +14,4 @@ Dubladores PT-BR:
         Sixflaver
         Gears
         Nevetuwu
+        Pedro H M de Castro
